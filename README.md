@@ -1,4 +1,4 @@
 xkcdGetter
 ==========
 
-Comic Getter for Xkcd
+Comic Getter for Xkcd -- testing git commits
